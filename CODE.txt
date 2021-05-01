@@ -1,0 +1,20 @@
+El Call for Code es un reto global donde pueden participar profesores, alumnos, emprendedores empresarios y más. Dentro del Call for Code hay un premio independiente al que pueden acceder los alumnos y es el University Challenge. El IEEE Bootcamp: Journey to CFC está destinado a que los alumnos participen y puedan ganar el Call for Code Global Challenge o el University Challenge. Las sesiones serán por streaming, por lo que cualquiera podría asistir a ellas, pero te comento que nuestro público de interés son estudiantes.
+Puedes revisar más del Call for Code aquí: https://callforcode.org/global-challenge/
+Los requisitos para participar del Call for Code es ser grupos de máximo 5 personas y mayores de edad. En este bootcamp se requiere que sean también estudiantes. En la página del call for code se puede encontrar más detalle, también en el Welcome Kit que reciben los estudiantes que se inscriben. Revisar los siguientes puntos importantes y los enlaces a estos recursos:
+Welcome kit - Español: https://ibm.box.com/v/ieee-welcomekit-es
+Agenda - Español: https://ibm.box.com/v/ieeebootcamp-agenda-es
+Linktree (todos los accesos) https://linktr.ee/journeytocallforcode
+¿Quién puede participar?
+ 
+Todos los desarrolladores, diseñadores, científicos de datos y emprendedores mayores de 18 años o la mayoría de edad en su jurisdicción, lo que sea mayor. Todos los participantes deben aceptar los términos del Acuerdo de Participación  al momento de la presentación.
+¿Cómo formar los equipos?
+ 
+Los equipos se crean a discreción de participantes individuales con un equipo que no supere las cinco personas. Basándose en la experiencia de los participantes exitosos de Call for Code, los equipos multidisciplinarios funcionan mejor, lo que significa que incluyan un conjunto diverso de habilidades, experiencias y conocimientos. 
+Call for Code criterios de evaluación:
+ 
+Un panel de jueces evaluará cada participación utilizando una combinación de criterios de evaluación como se describe en esta sección. No obstante lo anterior, los Patrocinadores pueden rechazar cualquier envío que no satisfaga el objetivo de ninguna de las temáticas del evento a discreción de los Patrocinadores. Cualquier decisión de este tipo es definitiva y no está sujeta a apelación.
+Cada presentación se puntuará en cada ronda en función de los siguientes criterios con una puntuación mínima de 0 y una puntuación máxima de 20 puntos, siendo la puntuación final el promedio de las puntuaciones de los jueces y una evaluación de:
+● Integridad y transferibilidad (5 puntos): ¿Qué tan completa se ha implementado la idea? ¿Puede lograr un impacto en el campo? ¿Se puede transferir a otro lugar?
+● Eficacia y eficiencia (5 puntos): ¿Aborda la solución un área de alta prioridad? ¿Logra su objetivo de manera efectiva y eficiente? ¿Puede escalar?
+● Diseño y usabilidad (5 puntos): ¿Qué tan bueno es el diseño, la experiencia del usuario y la facilidad de uso de la solución? ¿Qué tan rápido se puede usar?
+● Creatividad e innovación (5 puntos): ¿Cuán único es el enfoque para resolver un problema de larga data o previamente intratable?
